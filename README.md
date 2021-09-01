@@ -1,1 +1,1 @@
-QRS detection
+Detection-of-ECG-characteristic
